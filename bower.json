@@ -1,0 +1,34 @@
+{
+  "name": "publicartfinder",
+  "version": "0.0.0",
+  "homepage": "https://github.com/elchao96/publicartfinder",
+  "authors": [
+    "Emily Chao <elchao96@live.com>"
+  ],
+  "description": "A prototype for Code for San Jose public art finder project",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "cfsj",
+    "san",
+    "jose",
+    "public",
+    "art",
+    "finder"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.1",
+    "angular": "~1.4.1",
+    "parse": "~1.4.2"
+  }
+}

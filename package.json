@@ -1,0 +1,31 @@
+{
+  "name": "publicartfinder",
+  "version": "0.0.0",
+  "description": "A prototype for Code for San Jose for the public art finder project",
+  "main": "server.js",
+  "scripts": {
+    "test": "gulp",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elchao96/publicartfinder.git"
+  },
+  "keywords": [
+    "cfsj",
+    "san",
+    "jose",
+    "public",
+    "art"
+  ],
+  "author": "Emily Chao (elchao96)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elchao96/publicartfinder/issues"
+  },
+  "homepage": "https://github.com/elchao96/publicartfinder#readme",
+  "dependencies": {
+    "express": "^4.12.4",
+    "gulp": "^3.9.0"
+  }
+}
