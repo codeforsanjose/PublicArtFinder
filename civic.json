@@ -1,4 +1,5 @@
 {
  "status": "Alpha",
- "tags": ["art", "finder", "data", "opendata"]
+ "tags": ["art", "finder", "data", "opendata"],
+ "communityPartner": "this is a test"
 }
